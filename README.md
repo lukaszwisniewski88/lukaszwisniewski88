@@ -12,7 +12,6 @@ lukaszwisniewski88<br/>
 
 ## About me
 
-<hr/>
 Hello World!<br/>
 I'm Łukasz and I'm a hobbyist and passionate about the front-end technologies. I've started my journey some time ago and still developing my knowledge and skills.
 
