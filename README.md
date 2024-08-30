@@ -9,7 +9,7 @@ lukaszwisniewski88<br/>
 [:coffee: Buy Me a Coffee - buymeacoffee.com](https://www.buymeacoffee.com/lukascherry)<br/>
 
 <br/>
-
+<a href="https://app.daily.dev/wisienka"><img src="https://api.daily.dev/devcards/v2/yljT8LymMQFoV3541O9lP.png?type=default&r=4cy" width="356" alt="Łukasz Wiśniewski's Dev Card"/></a>
 ## About me
 
 Hello World!<br/>
